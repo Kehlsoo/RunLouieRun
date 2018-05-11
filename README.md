@@ -20,4 +20,3 @@ Goals For Release #2:
 - [x] Create beginning countdown
 - [x] Create score system and anchors for extra points 
 - [x] More movement for background
-- [x] Start artwork and sound Creation

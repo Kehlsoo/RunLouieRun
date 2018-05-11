@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.effect.*?>
+<?import javafx.scene.control.*?>
+<?import java.lang.*?>
+<?import javafx.scene.image.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="application.game.GameOverController">
+   <children>
+      <ImageView fitHeight="400.0" fitWidth="600.0">
+         <image>
+            <Image url="@../../../resources/Images/gameOverScreen.png" />
+         </image>
+      </ImageView>
+      <Button fx:id="restartButton" layoutX="40.0" layoutY="188.0" mnemonicParsing="false" onAction="#initialize" prefHeight="38.0" prefWidth="166.0" text="Button">
+         <effect>
+            <ImageInput>
+               <source>
+                  <Image url="@../../../resources/Images/restart.png" />
+               </source>
+            </ImageInput>
+         </effect>
+      </Button>
+      <Button fx:id="mainMenuButton" layoutX="387.0" layoutY="188.0" mnemonicParsing="false" onAction="#initialize" prefHeight="38.0" prefWidth="179.0" text="Button">
+         <effect>
+            <ImageInput>
+               <source>
+                  <Image url="@../../../resources/Images/mainMenu_text%20(1).png" />
+               </source>
+            </ImageInput>
+         </effect>
+      </Button>
+      <Label id="distanceLabel" fx:id="distanceLabel" layoutX="108.0" layoutY="116.0" textFill="WHITE" />
+      <Label id="anchorLabel" fx:id="anchorLabel" layoutX="370.0" layoutY="116.0" text="Label" textFill="WHITE" />
+   </children>
+</AnchorPane>

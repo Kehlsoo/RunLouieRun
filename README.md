@@ -25,3 +25,5 @@ Goals For Release #2:
 
 
 ![image](https://user-images.githubusercontent.com/35376384/46843047-f7293580-cd9e-11e8-82c4-611737acfdda.png)
+
+![image](https://user-images.githubusercontent.com/35376384/46843109-2f307880-cd9f-11e8-9795-d12a5d860693.png)

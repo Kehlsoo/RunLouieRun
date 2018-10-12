@@ -22,3 +22,6 @@ Goals For Release #2:
 - [x] Create beginning countdown
 - [x] Create score system and anchors for extra points 
 - [x] More movement for background
+
+
+[Contribution guidelines for this project](docs/RunLouieRun Release 2 Documentation.pdf)

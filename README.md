@@ -22,3 +22,6 @@ Goals For Release #2:
 - [x] Create beginning countdown
 - [x] Create score system and anchors for extra points 
 - [x] More movement for background
+
+
+![image](https://user-images.githubusercontent.com/35376384/46843047-f7293580-cd9e-11e8-82c4-611737acfdda.png)

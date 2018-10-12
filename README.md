@@ -4,6 +4,8 @@ Welcome To Run Louie Run, an infinite runner game revolving around GVSU's vary o
 Created as part of a Group-Project for CIS-350, this project will evolve in two stages, each with
 several new and cool features.
 
+Java and JavaFX were used in the making of this game.
+
 Authors: Kehlsey Lewis, Nabeel Vali, and Andrew Freiman
 
 Goals For Release #1: 
